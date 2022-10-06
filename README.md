@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ghana Tows**
 
-- 👯 I’m looking to collaborate on **Awesome react and flutter**
+- 👯 I’m looking to collaborate on **Awesome react and flutter projects**
 
 - 💬 Ask me about **react,vue,flutter,python**
 
