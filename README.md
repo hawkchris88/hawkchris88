@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Awesome react and flutter projects**
 
-- 💬 Ask me about **react,vue,flutter,python**
+- 💬 Ask me about **react,vue,flutter,react native, Everything Javascript**
 
 - 📫 How to reach me **hawkchris88@gmail.com**
 
