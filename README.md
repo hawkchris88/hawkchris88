@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris Hawkson</h1>
 <h3 align="center">A seasoned frontend & mobile developer from Ghana</h3>
 
-- 🔭 I’m currently working on **Ghana Tows**
+- 🔭 I’m currently working on **Nebula.io**
 
 - 👯 I’m looking to collaborate on **Awesome react and flutter projects**
 
