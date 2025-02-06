@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Nebula.io**
 
-- 👯 I’m looking to collaborate on **Awesome react and flutter projects**
+- 👯 I’m looking to collaborate on **Awesome Web Projects**
 
-- 💬 Ask me about **react,vue,flutter,react native, Everything Javascript**
+- 💬 Ask me about ** Everything Javascript, Web, Python**
 
 - 📫 How to reach me **hawkchris88@gmail.com**
 
